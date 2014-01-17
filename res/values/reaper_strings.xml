@@ -15,7 +15,9 @@
   <!-- Dashboard -->
     <string name="header_category_custom">ROM Control</string>
     <string name="reaper_settings_title">Purgatory</string>
-    <string name="reaper_settings_summary">Give your device some soul</string>    	
+    <string name="reaper_settings_summary">Give your device some soul</string>
+    <string name="supersu_title">SuperSU</string>
+    <string name="supersu_summary">Manage root permissions</string>    	
 	
 <!-- Development Settings -->
     <!-- Dev Options Enabled by Default -->
