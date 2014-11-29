@@ -86,6 +86,12 @@
                         android:data="https://source.android.com/security/bulletin/" />
         </PreferenceScreen>
 
+        <!-- Reaper firmware version -->
+        <Preference android:key="reaper_version"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/reaper_version_title"
+                android:summary="@string/reaper_version_default"/>
+
         <!-- Device FCC equipment id -->
         <com.android.settings.DividerPreference
                 android:key="fcc_equipment_id"
