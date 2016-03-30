@@ -13,7 +13,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 <!-- Custom Settings -->    
   <!-- Dashboard -->
-    <string name="header_category_custom">ROM Control</string>	
+    <string name="header_category_custom">ROM Control</string>
+    <string name="reaper_settings_title">Purgatory</string>
+    <string name="reaper_settings_summary">Give your device some soul</string>    	
 	
 <!-- Development Settings -->
     <!-- Dev Options Enabled by Default -->
