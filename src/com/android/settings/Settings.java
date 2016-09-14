@@ -165,5 +165,6 @@ public class Settings extends SettingsActivity {
 
     // Reaper Additions.
     public static class ReaperSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class SubstratumActivity extends SettingsActivity { /* empty */ }
     public static class SuperSUActivity extends SettingsActivity { /* empty */ }
 }
