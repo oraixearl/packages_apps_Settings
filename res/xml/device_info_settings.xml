@@ -65,12 +65,42 @@
                 settings:allowDividerAbove="true"
                 settings:allowDividerBelow="true"/>
 
+        <!-- Device cpu info -->
+        <Preference android:key="device_cpu"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/cpu_info"
+                android:summary="@string/device_info_default"/>
+
+        <!-- Device mem info -->
+        <Preference android:key="device_memory"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/mem_info"
+                android:summary="@string/device_info_default"/>
+
         <!-- Device firmware version -->
         <Preference android:key="firmware_version"
                 android:enabled="false"
                 android:shouldDisableView="false"
                 android:title="@string/firmware_version"
                 android:summary="@string/device_info_default"/>
+
+        <!-- Reaper firmware version -->
+        <Preference android:key="reaper_version"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/reaper_version_title"
+                android:summary="@string/reaper_version_default"/>
+
+        <!-- Device build id -->
+        <Preference android:key="build_id"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/build_id"
+                android:summary="@string/device_info_default"/>
+
+        <!-- Build date -->
+        <Preference android:key="build_date"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/build_date"
+                android:summary="@string/device_info_default" />
 
         <!-- Changelog -->
         <PreferenceScreen android:key="changelog"
@@ -85,12 +115,6 @@
                 <intent android:action="android.intent.action.VIEW"
                         android:data="https://source.android.com/security/bulletin/" />
         </PreferenceScreen>
-
-        <!-- Reaper firmware version -->
-        <Preference android:key="reaper_version"
-                style="?android:preferenceInformationStyle"
-                android:title="@string/reaper_version_title"
-                android:summary="@string/reaper_version_default"/>
 
         <!-- Device FCC equipment id -->
         <com.android.settings.DividerPreference

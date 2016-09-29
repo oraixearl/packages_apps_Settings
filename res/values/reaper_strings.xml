@@ -35,7 +35,12 @@
     <!-- Change Log -->
     <string name="changelog_title">Changelog</string>
     <string name="changelog_title_summary">View recent changes in the ROM</string>
-    <string name="changelog_error">Unable to load changelog</string>    
+    <string name="changelog_error">Unable to load changelog</string>
+    <!-- About phone screen -->
+    <string name="cpu_info">CPU</string>
+    <string name="mem_info">Memory</string>
+    <string name="build_id">Android-Build-ID</string>
+    <string name="build_date">Build Date</string>        
     <!-- Linked / unlinked notification volume -->
     <string name="link_volume_option_title">Link ring and notification volume</string>
     <string name="notification_volume_option_title">Notification volume</string>
