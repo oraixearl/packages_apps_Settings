@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192.000000dp"
+    android:height="192.000000dp"
+    android:viewportWidth="192.000000"
+    android:viewportHeight="192.000000"
+    android:tint="?android:attr/colorAccent">
+
+    <group
+            android:translateY="192.000000"
+            android:scaleX="0.100000"
+            android:scaleY="-0.100000">
+        <path
+            android:fillColor="@android:color/black"
+            android:strokeWidth="1"
+            android:pathData="M845 1786 c-209 -34 -377 -128 -510 -285 -71 -84 -114 -165 -99 -188 19 -30 32 -25
+54 20 34 68 115 171 174 221 148 127 311 186 511 186 167 0 294 -39 433 -133 74
+-51 202 -179 228 -229 22 -43 2 -33 -26 13 -14 23 -63 78 -110 123 -90 86 -190 144
+-317 183 -85 26 -326 25 -403 -1 -142 -49 -268 -130 -357 -230 -50 -58 -123 -171
+-123 -192 0 -14 102 -94 119 -94 5 0 21 21 37 48 15 26 40 64 57 85 28 36 28 39 13
+56 -21 23 -8 34 28 25 32 -8 70 20 204 150 56 54 105 96 109 93 3 -4 -19 -39 -49
+-79 -139 -182 -220 -350 -278 -572 -11 -44 -20 -93 -20 -109 0 -39 -22 -30 -33 14
+-13 52 -22 55 -66 20 -39 -31 -41 -35 -35 -74 21 -135 127 -304 248 -395 44 -34 23
+-38 -31 -7 -84 50 -185 161 -232 256 -59 121 -81 264 -39 264 9 0 20 4 24 8 8 8 42
+132 43 158 1 8 -48 52 -110 98 -85 63 -114 80 -124 71 -7 -6 -21 -40 -31 -76 l-17
+-66 37 -70 c34 -61 39 -81 46 -166 10 -121 24 -177 67 -272 108 -238 336 -403 622
+-450 30 -5 58 -7 63 -4 5 3 -22 38 -60 79 -118 124 -184 225 -229 350 -28 78 -37
+125 -25 125 6 0 14 -15 17 -32 10 -44 66 -156 116 -230 44 -64 188 -214 251 -262
+l37 -28 78 16 c263 54 455 207 574 459 16 34 29 68 29 74 0 18 -189 158 -199 147
+-4 -5 -15 -28 -25 -52 -21 -55 -95 -172 -108 -172 -6 0 -8 6 -5 13 66 149 77 212
+53 304 -18 71 -88 216 -152 316 -48 74 -52 88 -29 107 8 7 15 18 15 25 0 7 -36 47
+-81 90 -44 42 -79 79 -76 81 2 3 33 -15 68 -39 35 -23 80 -49 99 -57 19 -8 65 -31
+101 -52 36 -21 74 -38 83 -38 9 0 19 -8 23 -17 3 -10 21 -33 40 -51 59 -58 131
+-171 162 -254 17 -44 31 -86 31 -93 0 -32 22 -115 31 -115 16 0 9 172 -10 267 -55
+266 -238 484 -491 586 -143 57 -289 75 -425 53z m197 -536 c73 -49 201 -189 233
+-255 34 -72 46 -162 34 -254 -9 -72 -57 -211 -72 -211 -5 0 -6 10 -3 23 28 99 36
+139 36 189 0 31 -4 59 -9 63 -5 3 -27 -16 -48 -42 -20 -27 -59 -71 -84 -100 -62
+-69 -77 -126 -55 -209 16 -64 38 -112 68 -156 39 -57 16 -51 -92 22 -157 108 -282
+245 -341 375 -32 72 -54 180 -46 236 3 21 1 39 -4 39 -22 0 -5 40 42 98 63 78 234
+212 270 212 14 0 46 -14 71 -30z" />
+    </group>
+</vector>

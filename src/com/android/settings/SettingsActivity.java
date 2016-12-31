@@ -372,8 +372,6 @@ public class SettingsActivity extends SettingsDrawerActivity
             WifiInfo.class.getName(),
             MasterClear.class.getName(),
             NightDisplaySettings.class.getName(),
-            ManageDomainUrls.class.getName(),
-            AutomaticStorageManagerSettings.class.getName(),
             ReaperSettings.class.getName(),
     };
 
