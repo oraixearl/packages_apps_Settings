@@ -13,13 +13,13 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 <!-- Custom Settings -->    
   <!-- Dashboard -->
-    <string name="header_category_custom">ROM Control</string>
+    <string name="header_category_custom">The Bling</string>
     <string name="reaper_settings_title">Purgatory</string>
     <string name="reaper_settings_summary">Give your device some soul</string>
     <string name="substratum_title">Substratum</string>
-    <string name="substratum_summary">Customize device theme</string>
+    <string name="substratum_summary">Death is not black and white</string>
     <string name="supersu_title">SuperSU</string>
-    <string name="supersu_summary">Manage root permissions</string>    	
+    <string name="supersu_summary">Root of all evil</string>    	
 	
 <!-- Development Settings -->
     <!-- Dev Options Enabled by Default -->
