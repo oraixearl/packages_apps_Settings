@@ -30,7 +30,7 @@
     <string name="adb_notify">ADB notification</string>
     <string name="adb_notify_summary">Display a notification when android debugging is enabled</string>
     <!-- About phone screen, Reaper version -->
-    <string name="reaper_version_title">ZDGAF Version</string>
+    <string name="reaper_version_title">Reaper Version</string>
     <string name="reaper_version_default">Unknown</string>    
     <!-- Change Log -->
     <string name="changelog_title">Changelog</string>
