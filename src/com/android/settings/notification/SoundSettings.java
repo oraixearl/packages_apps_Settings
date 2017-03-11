@@ -198,6 +198,7 @@ public class SoundSettings extends SettingsPreferenceFragment implements Indexab
         }
         initRingtones();
         initVibrateWhenRinging();
+        initVolumeLinkNotification();
         initIncreasingRing();
         updateRingerMode();
         updateEffectsSuppressor();
